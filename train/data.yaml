@@ -1,0 +1,7 @@
+path: .
+
+train: train_data/images
+val: val_data/images
+
+nc: 1
+names: ["belt"]
