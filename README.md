@@ -1,5 +1,3 @@
-# 🚀 Ripik AI Take Home Assignment
-
 ## Conveyor Belt Damage Detection (Hybrid AI + CV Pipeline)
 
 ---
